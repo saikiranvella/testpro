@@ -7,5 +7,6 @@ public class First {
 		int y = Integer.parseInt(args[3]);
 		int z = x+y;
 		System.out.println(z);
+		//dabidi dibide
 	}
 }
