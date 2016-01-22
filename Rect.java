@@ -22,6 +22,7 @@ class MainProg {
 			rob.b = 20;
 			rob.set(10,20);
 			rob.show();
+			int f;
 		}
 	}
 
